@@ -1,0 +1,10 @@
+orange 500 5
+milk 500 5
+flour 500 5
+grapes 500 5
+fanta 500 5
+chips 500 5
+burgers 500 5
+oats 500 5
+chiken 500 5
+banana 500 5
